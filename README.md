@@ -39,7 +39,8 @@ The initial realisation plan included making the component [Draggable](https://g
 ## To start this demo
 Please, follow the next steps:
 - !Skip this step in case you have your own server! 
-Go to the "react-bot-widget/demo-server/myapp/" folder and open cmd. Enter nodemon app.js to start the demo-server. 
+
+Go to the "react-bot-widget/demo-server/myapp/" folder and open cmd. Enter "nodemon app.js" to start the demo-server. 
 - Go to the root folder and open cmd. Then enter "npm install" > "npm start".
 
 NB: I assume that you have npm installed. If not, please, follow the [guide](https://www.npmjs.com/get-npm).
